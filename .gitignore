@@ -1,0 +1,11 @@
+.idea
+.pytest*
+__pycache__*
+Tests/.idea
+Tests/.pytest*
+Tests/__pycache__*
+assets/
+report.html
+*.pyc
+/**/*.pyc
+/**/**/*.pyc
