@@ -1,0 +1,16 @@
+{
+  "TestAddFetchCar.py::TestAddFetchCar::()::test_add_a_car_with_brand_name_correct_string": true, 
+  "TestAddFetchCar.py::TestAddFetchCar::()::test_add_a_car_with_brand_name_max_length_string": true, 
+  "TestAddFetchCar.py::TestAddFetchCar::()::test_add_a_car_with_brand_name_with_special_characters_string": true, 
+  "TestAddFetchCar.py::TestAddFetchCar::()::test_add_a_car_with_daily_price_equal_to_zero": true, 
+  "TestAddFetchCar.py::TestAddFetchCar::()::test_add_a_car_with_daily_price_greater_than_zero": true, 
+  "TestAddFetchCar.py::TestAddFetchCar::()::test_add_a_car_with_daily_price_less_than_500": true, 
+  "TestAddFetchCar.py::TestAddFetchCar::()::test_add_a_car_with_daily_price_less_than_zero": true, 
+  "TestAddFetchCar.py::TestAddFetchCar::()::test_add_a_car_with_daily_price_value_equal_to_500": true, 
+  "TestAddFetchCar.py::TestAddFetchCar::()::test_add_a_car_with_model_name_correct_string": true, 
+  "TestAddFetchCar.py::TestAddFetchCar::()::test_add_a_car_with_model_name_max_length_string": true, 
+  "TestAddFetchCar.py::TestAddFetchCar::()::test_add_a_car_with_model_name_with_special_characters_string": true, 
+  "TestAddFetchCar.py::TestAddFetchCar::()::test_add_a_car_with_power_rating_equal_to_500": true, 
+  "TestAddFetchCar.py::TestAddFetchCar::()::test_add_a_car_with_power_rating_greater_than_zero": true, 
+  "TestAddFetchCar.py::TestAddFetchCar::()::test_add_a_car_with_power_rating_less_than_500": true
+}
